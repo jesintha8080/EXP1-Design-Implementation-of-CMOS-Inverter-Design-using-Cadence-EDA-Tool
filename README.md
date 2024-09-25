@@ -31,6 +31,8 @@ i)	Procedure for Creating New Library.
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
+![image](https://github.com/user-attachments/assets/05cd767c-8e68-484a-866a-56147c295661)
+
 ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
@@ -64,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+ ![image](https://github.com/user-attachments/assets/009dd5dd-651d-419d-a137-14a974de3164)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +79,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![image](https://github.com/user-attachments/assets/a90a6496-cc44-4049-ba96-7a190a8bd0d4)
+
 
 
  
@@ -97,12 +101,14 @@ For Transient Analysis Settings and Output
  
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ ![image](https://github.com/user-attachments/assets/26994193-1dba-4f77-ba3e-45d7cc946a78)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![image](https://github.com/user-attachments/assets/e6a4bbed-4790-422c-b59c-fe33d5f4bddb)
+
 
  
 
